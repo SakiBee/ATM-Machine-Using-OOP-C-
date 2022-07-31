@@ -1,3 +1,15 @@
+This is a mini project.
+Where you can sign in with your account number and a password which is valid.
+Then you find a menu.
+    From the menu 
+        You can add money to your account,
+        Cash Withdraw
+        Change Mobile Number
+        Show Details
+        etc..
+            
+            
+
 #include<bits\stdc++.h>
 #include<conio.h>
 using namespace std;
